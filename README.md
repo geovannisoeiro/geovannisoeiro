@@ -45,4 +45,7 @@ Experiments, architecture decisions, dead ends and failures become the content.
 
 **Build → Experiment → Record → Explain.**
 
+▶️ [Geovanni Soeiro](https://www.youtube.com/@geovannisoeiro) — the systems, the process
+🎮 [Jogando-Lata](https://www.youtube.com/@jogandolata) — gameplays
+
 📍 Rio de Janeiro · 𝕏 [@GeovanniSoeiro](https://x.com/GeovanniSoeiro)
